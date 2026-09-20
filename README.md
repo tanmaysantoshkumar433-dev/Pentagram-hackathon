@@ -13,6 +13,7 @@ monitor patient status, and keep an eye on ambulance waiting times — all from 
 🛠 Tech Stack
 HTML
 JavaScript
+CSS
 ---
 🚀 Getting Started
 Clone the repository:
